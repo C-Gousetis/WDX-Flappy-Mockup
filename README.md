@@ -1,4 +1,4 @@
-Flappy App
+Initial Instructions setup for Flappy App
 ===================
 
 1. Clone this repository into your projects directory
